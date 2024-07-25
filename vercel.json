@@ -1,0 +1,11 @@
+{
+    "routes": [
+        {
+            "src": "/user",
+            "methods": [
+                "GET"
+            ], 
+            "dest": "/api/user"
+        }
+    ]
+}
